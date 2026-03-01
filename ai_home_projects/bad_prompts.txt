@@ -1,0 +1,20 @@
+# !Precision
+PROMPT = """
+You are an assistant that knows about neural networks.
+You are talking to a user who wants to learn about neural networks.
+Tell the user something about it.
+"""
+
+
+# !Structure
+PROMPT = """
+You are an assistant helping a beginner understand neural networks.
+Explain what you know about neural networks in a list or something like that.
+"""
+
+
+# !Context
+PROMPT = """ 
+You are an assistant that knows about neural networks.
+Explain neural networks in a clear, structured way to the user.
+"""
