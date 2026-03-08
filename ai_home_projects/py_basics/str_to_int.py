@@ -1,0 +1,5 @@
+num = input("please enter two numbers separated by a space: ")
+num1, num2 = num.split()
+num1 = int(num1)
+num2 = int(num2)
+print(f"The sum of {num1} and {num2} is {num1 + num2}.")
